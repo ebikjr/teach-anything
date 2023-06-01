@@ -186,10 +186,10 @@ const Home: NextPage = () => {
               </button>
             )}
             <a
-              href="https://magickpen.com/"
+              href="https://play.google.com/store/apps/dev?id=5705470950560967631"
               className="pro-btn  block md:flex-1 border border-transparent rounded-xl font-medium px-4 py-2 w-full"
             >
-              Get Pro version &rarr;
+              More Apps &rarr;
             </a>
           </div>
         </div>
