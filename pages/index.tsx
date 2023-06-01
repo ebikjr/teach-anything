@@ -239,7 +239,7 @@ const Home: NextPage = () => {
               </main>
       <Footer />
       <a
-        href="play.store.com"
+        href=""
         target="_blank"
         className="fixed right-4 bottom-4 flex h-12 w-12 items-center justify-center rounded-full bg-black text-white hover:bg-gray-600"
       >
