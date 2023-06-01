@@ -238,7 +238,11 @@ const Home: NextPage = () => {
         
               </main>
       <Footer />
-      
+      <a
+        href="play.store.com"
+        target="_blank"
+        className="fixed right-4 bottom-4 flex h-12 w-12 items-center justify-center rounded-full bg-black text-white hover:bg-gray-600"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 20 20"
