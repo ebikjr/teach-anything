@@ -276,76 +276,7 @@ const Home: NextPage = () => {
             Share on Twitter
           </a>
         </div>
-        <div className="my-5 max-w-xl w-full">
-          <h2 className=" text-slate-400 mb-4">Our Products</h2>
-          <ul className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
-            <li>
-              <a
-                href="https://magickpen.com/"
-                className="flex px-2 items-center justify-center h-14 hover:bg-slate-50 rounded-lg hover:transition-all"
-              >
-                <img
-                  className="h-6 object-contain"
-                  src="/magickpen.svg"
-                  alt="MagickPen - Write Anything in Seconds Just like Magick"
-                />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://ask2end.com/"
-                className="flex px-2 items-center justify-center h-14 hover:bg-slate-50 rounded-lg hover:transition-all"
-              >
-                <img
-                  className="h-6 object-contain"
-                  src="/Ask2End.png"
-                  alt="Ask2End - Ask anything, get the ultimate answer!"
-                />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://better.avatarprompt.net/"
-                className="flex px-2 items-center justify-center h-14 hover:bg-slate-50 rounded-lg hover:transition-all"
-              >
-                <img
-                  className="h-6 object-contain"
-                  src="/BetterPrompt.png"
-                  alt="BetterPrompt - Make Your Midjourney Prompt Better!"
-                />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://openl.io/"
-                className="flex px-2 items-center justify-center h-14 hover:bg-slate-50 rounded-lg hover:transition-all"
-              >
-                <img
-                  className="h-6 object-contain"
-                  src="/OpenL.png"
-                  alt="OpenL - Amazing Translator, powered by AI"
-                />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://sailboatui.com/?ref=teach-anything"
-                className="flex px-2 items-center justify-center h-14 hover:bg-slate-50 rounded-lg hover:transition-all"
-              >
-                <img className="h-6 object-contain" src="/sailboatui.svg" alt="Sailboat UI" />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.buymeacoffee.com/lvwzhen"
-                className="flex px-2 items-center justify-center h-14 hover:bg-slate-100 rounded-lg hover:transition-all border border-dashed border-slate-200 bg-slate-50"
-              >
-                <p className="h-6 leading-6">❤️ Your logo</p>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </main>
+              </main>
       <Footer />
       <a
         href="https://discord.gg/baGvNpRujT"
